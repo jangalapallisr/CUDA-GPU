@@ -58,3 +58,4 @@ int main() {
 // To compile "!nvcc -o nvcc_vectorAdd nvcc_vectorAdd.cu -lstdc++"
 // To run "!./nvcc_vectorAdd"
 // To Check NVCC compiler version !nvcc --version
+//NVPROF is profiling process "!nvprof ./nvcc_vectorAdd"
